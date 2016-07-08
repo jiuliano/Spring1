@@ -10,5 +10,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="org.springframework:spring-context:4.0.5.RELEASE" level="project" />
+    <orderEntry type="library" name="org.springframework.boot:spring-boot-starter-web:1.0.2.RELEASE" level="project" />
   </component>
 </module>
